@@ -1,0 +1,31 @@
+h1{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+}
+.text{
+    color: white;
+    margin-top: 10px;
+}
+.text1{
+    color: white;
+    margin-top: 50px;
+}
+.circle{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    background-color: gray;
+    position: absolute;
+}
+
+.rectangle{
+    width: 400px;
+    height:70px;
+    position: absolute;
+    background-color: gray;
+    margin-top: -50px;
+    margin-left: 130px;
+    border-radius: 10px;
+    border-bottom-right-radius: 20px;
+}
